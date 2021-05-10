@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+	<name>ros_utils_lib</name>
+	<version>0.0.0</version>
+	<description>Some ROS utils for ease ros modules development</description>
+
+	<maintainer email="miguel.fernandez.cortizas@upm.es">Miguel Fernandez</maintainer>
+
+	<license>TODO</license> 
+	<buildtool_depend>catkin</buildtool_depend>
+
+	<depend>roscpp</depend>
+
+</package>
